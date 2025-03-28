@@ -26,7 +26,9 @@ defmodule Styler do
     Styler.Style.Defs,
     Styler.Style.Blocks,
     Styler.Style.Configs,
-    Styler.Style.CommentDirectives
+    Styler.Style.CommentDirectives,
+    Styler.Style.LiveviewCallbacks,
+    Styler.Style.LivecomponentCallbacks
   ]
 
   @doc false
